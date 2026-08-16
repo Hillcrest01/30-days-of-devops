@@ -1,1 +1,1 @@
-day - 0 complete, a good introduction to devops and the tools they entail.
+In the pursuit to understand DevOps, with DevOpsShark as my Youtube Tutor, I will be taking this course in the next 30 days to ensure I have devops concepts well understood theoretically and practically. 
