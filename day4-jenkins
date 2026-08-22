@@ -14,3 +14,6 @@ Customizable build triggers: Developers can set up automated builds based on cod
 Security and access control: Role-based access ensures secure management of builds and sensitive project configurations.
 Cloud and container support: Jenkins works with cloud services and container platforms like AWS, Kubernetes, and Docker
 Built-in monitoring and reporting: Jenkins provides real-time logs, build reports, and test results for better project visibility.
+
+
+JENKINS HANDS ON
