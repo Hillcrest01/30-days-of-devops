@@ -13,3 +13,5 @@ Sometimes for example some OS do not run other linux images for example windows 
 Docker ToolBox abstracts the kernel for your host OS to run different docker images.
 
 ==Next Up: Docker Installation==
+
+Docker refused to install in my machine, I will have to look for an alternative
