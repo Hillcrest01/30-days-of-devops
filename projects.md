@@ -5,3 +5,4 @@ project 4 - Docker
 project 5 - Jenkins
 project 6 -grafana
 project 7 - Nexus
+project 8 - Pulumi
