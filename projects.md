@@ -8,3 +8,4 @@ project 7 - Nexus
 project 8 - Pulumi
 project 9 - Ansible
 project 10 - Terraform
+project 11 - Puppet
